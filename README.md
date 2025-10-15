@@ -1,4 +1,4 @@
-# CSCA 5622: ML Supervised Learning - Student Success Prediction
+# CSCA 5622: Predicting Student Success with Machine Learning
 
 Course: CSCA 5622 - Intro to Machine Learning: Supervised Learning  
 University: University of Colorado Boulder  
